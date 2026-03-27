@@ -1,0 +1,36 @@
+# Basic exclusions
+.git
+.gitignore
+.dockerignore
+LICENSE
+README.md
+
+# Virtual environments
+venv/
+.venv/
+env/
+server/venv/
+
+# Build and distribution files
+build/
+dist/
+*.egg-info/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Local configuration files
+.env
+.idea/
+.vscode/
+
+# OpenEnv specific
+outputs/
+docker-compose.yml
