@@ -1,0 +1,12 @@
+temp_venv_root/
+temp_venv_server/
+.venv/
+__init__.py
+__pycache__/
+*.ipynb
+outputs/
+server/venv/
+.git/
+.gitignore
+.dockerignore
+.hfignore

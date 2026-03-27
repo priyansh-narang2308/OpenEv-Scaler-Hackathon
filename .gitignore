@@ -154,5 +154,3 @@ cython_debug/
 # Project Specific
 server/venv/
 outputs/
-temp_venv_root/
-temp_venv_server/
